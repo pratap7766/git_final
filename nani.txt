@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 hello its a nani file
 hello its a second line
-=======
 hello its a nani file 
 hello its third line
->>>>>>> 01fdd0f8f11df4957689387eb83fd5ce6dc6ca10
+
